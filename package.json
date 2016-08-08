@@ -1,0 +1,23 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "nyt react search",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrotherBuck/React.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "John Dispennette",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrotherBuck/React/issues"
+  },
+  "homepage": "https://github.com/BrotherBuck/React#readme"
+}
