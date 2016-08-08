@@ -12,12 +12,28 @@
     "url": "git+https://github.com/BrotherBuck/React.git"
   },
   "keywords": [
-    "react"
+    "Node.js",
+    "Express.js",
+    "Handlebars.js",
+    "JavaScript",
+    "jQuery",
+    "MySQL",
+    "css",
+    "Bootstrap"
   ],
   "author": "John Dispennette",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/BrotherBuck/React/issues"
   },
-  "homepage": "https://github.com/BrotherBuck/React#readme"
+  "homepage": "https://github.com/BrotherBuck/React#readme",
+   "dependencies": {
+    "body-parser": "^1.15.2",
+    "morgan": "^1.1.4",
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "mongojs": "^2.4.0" 
+    
+  }
+
 }
