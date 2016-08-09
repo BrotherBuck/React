@@ -5,9 +5,9 @@ var logger = require('morgan');
 var mongojs = require('mongojs');
 var exphbs = require('express-handlebars');
 
-var server = require('http').createServer(app);
-var io = require('socket.io')(server);
-io.on('connection', function(){ /* … */ });
+// var server = require('http').createServer(app);
+// var io = require('socket.io')(server);
+// io.on('connection', function(){ /* … */ });
 
 
 

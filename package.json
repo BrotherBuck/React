@@ -27,13 +27,14 @@
     "url": "https://github.com/BrotherBuck/React/issues"
   },
   "homepage": "https://github.com/BrotherBuck/React#readme",
-   "dependencies": {
+  "dependencies": {
+    "babel": "^6.5.2",
+    "babel-core": "^6.13.2",
     "body-parser": "^1.15.2",
-    "morgan": "^1.1.4",
+    "bundle": "^0.2.3",
     "express": "^4.14.0",
     "express-handlebars": "^3.0.0",
-    "mongojs": "^2.4.0" 
-    
+    "mongojs": "^2.4.0",
+    "morgan": "^1.1.4"
   }
-
 }
